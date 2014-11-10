@@ -35,6 +35,7 @@ public class treeidentical {
 		System.out.println(id.identical(b1.root, b2.root));
 		
 		System.out.println(id.identical(b1.root, b3.root));
+		
 	}
 }
 class identicaltrees extends BST{
